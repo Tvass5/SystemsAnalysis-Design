@@ -14,6 +14,8 @@ If I could choose one part of my work on these documents to revise I would choos
 
 # How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
-When designing this system I made sure to pay attention to what the clients wanted and also what the user's would need in order to utilize the DriverPass system. I then proceeded to document all the systems requirements needn to complete the system.
+When designing this system I made sure to pay attention to what the client wanted and also what the students would need in order to utilize the DriverPass system. I then proceeded to document all the systems requirements needed to complete the system. Once I had gathered all the relevant information I began to research the best ways to incorperate all the clients needs. Once I had fully understood the best, most cost effectivie and relevant ways to carryout the client needs, I then started working on the system docucments. These system documents were then given to the developers in order to implement my system design.
 
 # How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+
+When designig software I begin by documenting all the system requirements and needs, this will give me a clear picture of what the client wants and what tasks the developers would have to complete. I would also utilize the object model and the process model in order to create diagrams to help me to visualize how objects in the system behave and perform real world task and to better understand the flow of data within the system. These are some of the strategies that I would use in the future to analyze and design a system.
