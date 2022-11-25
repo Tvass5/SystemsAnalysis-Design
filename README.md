@@ -10,10 +10,10 @@ When completing this project I believe that I did a good job creating the system
 
 # If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
-If I could choose one part of my work on these documents to revise I would choose the business doucments. Though I did list a few assumptions and limitations, I definitely think that I could have listed more and gone into more detail when it came to these topics.
+If I could choose one part of my work on these documents to revise I would choose the business doucments. Though I did list a few assumptions and limitations, I definitely think that I could have listed more and gone into more detail when it came to these topics. In addition I would also choose to work on my UML Class Diagram I wasn't really clear on how to display the various realtionships bewteen the different objects and would love to be able to go over the diagram and correct some of the relationship that I displayed.
 
 # How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
-When designing this system I made sure to pay attention to what the clients wanted and also what the user's would need in order to utilize the DriverPass system.
+When designing this system I made sure to pay attention to what the clients wanted and also what the user's would need in order to utilize the DriverPass system. I then proceeded to document all the systems requirements needn to complete the system.
 
 # How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
